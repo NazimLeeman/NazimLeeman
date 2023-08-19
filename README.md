@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nazim Leeman</h1>
 <h3 align="center">A enthusiastic learner who wants to become a Fullstack engineer</h3>
 
-<img align="right" alt="coding" width ="400' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw3TTIJ0etidvoqM6WJlbCPd&ust=1692544092834000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCUwp2A6YADFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width ="400' src="![image](https://github.com/NazimLeeman/NazimLeeman/assets/134122541/5ae212ee-6cb6-4602-a179-59ab28dbad5a)
+">
 
 - 🌱 I’m currently learning **Javascript, React, Node JS, Mongodb, Express JS, C++**
 
