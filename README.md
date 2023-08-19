@@ -1,4 +1,3 @@
-![logo](https://github.com/NazimLeeman/NazimLeeman/blob/main/1000_F_351655720_QGvIvDvm4Z8TBVLwmqCYow2UNEIKyJ0E.jpg)
 <h1 align="center">Hi 👋, I'm Nazim Leeman</h1>
 <h3 align="center">An enthusiastic learner who wants to become a Fullstack engineer</h3>
 
