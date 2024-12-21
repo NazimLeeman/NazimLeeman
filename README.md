@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width ="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
 
 <h3 align="left">About me:</h3>
-<p align="left">- 🌱 I’m conversant in **Javascript, React, Node JS, Mongodb, Express JS**</p>
+<p align="left">- 🌱 I’m conversant in **Javascript, Python, SQL, GEN AI**</p>
 
-<p align="left">- 💬 Ask me about **Javascript, React, Node JS, Mongodb, Express JS**</p>
+<p align="left">- 💬 Ask me about **Javascript, Python, SQL, GEN AI**</p>
 
 <p align="left">- 📫 How to reach me **nazimleeman@gmail.com**</p>
 
